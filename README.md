@@ -3,6 +3,7 @@
 A simple modular text-processing pipeline implemented in Python.
 
 ## 📂 Project Structure
+```bash
 ai_pipeline_project/
 │
 ├── pipeline.py # Core pipeline classes (DataLoader, Preprocessor, Analyzer, etc.)
@@ -10,6 +11,7 @@ ai_pipeline_project/
 ├── sample_data.txt # Example input text (≥30 lines)
 ├── report.txt # Output analysis report
 └── README.md
+```
 
 ## ⚙️ Features
 - **DataLoader:** reads text files safely  
