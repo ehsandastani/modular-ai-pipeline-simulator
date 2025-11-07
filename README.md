@@ -36,6 +36,6 @@ avg_length: 8.1
 unique_words: 166
 ```
 
-## 🪄 Requirements
+## 🛠 Requirements
 * Python 3.8 +
 * No external libraries required (uses only the Python standard library)
