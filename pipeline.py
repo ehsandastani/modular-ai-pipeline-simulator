@@ -2,11 +2,6 @@ from abc import ABC, abstractmethod
 from typing import Any, List
 import re
 
-"""References
-    https://www.w3schools.com/python/ref_set_update.asp
-
-"""
-
 
 class PipelineStep(ABC):
     """
